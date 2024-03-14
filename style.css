@@ -1,0 +1,40 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+main {
+	margin-left: 50px;
+}
+
+header {
+	margin: 20px 50px 20px 60px;
+}
+
+h1 {
+	font-size: 48px;
+}
+
+h2 {
+	font-size: 32px;
+}
+
+#about-me-section,
+#contact-section {
+	/* margin-bottom: 20px; */
+	margin: 0px 200px 20px 0px;
+	background-color: lightgray;
+	border-radius: 10px;
+	padding: 20px;
+}
+
+#about-me-section p {
+	font-size: 20px;
+	margin: 10px;
+}
+
+#linkedin,
+#github {
+	font-size: 20px;
+	margin: 10px;
+}
